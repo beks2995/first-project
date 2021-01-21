@@ -45,3 +45,30 @@
 .btn:hover .icon, .btn:hover .text{
     transform: translateY(-100%);
 }
+.title{
+    text-align: center;
+}
+.subtitle{
+    color: red;
+    text-align: center;
+}
+.aisanam {
+    position: absolute;
+    padding-left: 500px;
+    padding-right: 500px;
+    font-size: 50px;
+    border: 2px solid black;
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background , .1s linear, color .1s linear;
+    background-color: white;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.aisanam:hover {
+     background-color: deeppink;
+     color: white;
+ }
