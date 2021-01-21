@@ -62,6 +62,9 @@
     text-decoration: none;
     transition: background , .1s linear, color .1s linear;
     background-color: white;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 .aisanam:hover {
