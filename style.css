@@ -45,3 +45,9 @@
 .btn:hover .icon, .btn:hover .text{
     transform: translateY(-100%);
 }
+.title{
+    text-align: center;
+}
+.subtitle{
+    color: red;
+}
