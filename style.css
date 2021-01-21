@@ -52,6 +52,8 @@
     color: red;
 }
 .aisanam {
+    position: absolute;
+    padding-left: 500px;
     font-size: 50px;
     border: 2px solid black;
     color: red;
