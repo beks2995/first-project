@@ -51,3 +51,16 @@
 .subtitle{
     color: red;
 }
+.aisanam {
+    font-size: 50px;
+    border: 2px solid black;
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background , .1s linear, color .1s linear;
+}
+
+.aisanam:hover {
+     background-color: hotpink;
+     color: white;
+ }
